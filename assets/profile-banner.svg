@@ -1,0 +1,32 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sven Shi profile banner</title>
+  <desc id="desc">A polished blue and violet gradient banner with the name Sven Shi centered clearly.</desc>
+  <defs>
+    <linearGradient id="card" x1="80" y1="30" x2="820" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.48" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="272" y1="-20" x2="640" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22d3ee" stop-opacity="0.95"/>
+      <stop offset="0.52" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.85"/>
+    </linearGradient>
+    <filter id="shadow" x="30" y="0" width="840" height="240" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#0f172a" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="240" rx="0" fill="transparent"/>
+  <g filter="url(#shadow)">
+    <rect x="74" y="28" width="752" height="184" rx="42" fill="url(#card)"/>
+    <path d="M110 178C185 214 271 207 337 159C400 113 469 88 554 104C640 120 714 96 788 52V212H110V178Z" fill="#020617" opacity="0.22"/>
+    <circle cx="238" cy="74" r="128" fill="url(#orb)" opacity="0.32"/>
+    <circle cx="730" cy="181" r="104" fill="#ffffff" opacity="0.10"/>
+    <path d="M99 72C169 44 247 46 314 78" stroke="#ffffff" stroke-opacity="0.20" stroke-width="2"/>
+    <path d="M587 53C654 28 734 35 803 73" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2"/>
+  </g>
+
+  <text x="450" y="116" text-anchor="middle" dominant-baseline="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="58" font-weight="800" letter-spacing="1.5" fill="#ffffff">Sven Shi</text>
+  <text x="450" y="158" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600" letter-spacing="3" fill="#dbeafe">NETWORK · DNS · ROUTER TOOLING</text>
+</svg>
