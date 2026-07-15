@@ -110,15 +110,18 @@ Good infrastructure software should be:
 - **Operational:** easy to run, upgrade, debug, and recover.
 - **Fast where it matters:** performance should support reliability, not just benchmarks.
 
-## 📊 GitHub Snapshot
+## 📊 Profile Snapshot
+
+```text
+Primary theme    DNS infrastructure and practical network control
+Main project     OxiDNS ecosystem
+Languages        Rust, Java, JavaScript, Shell
+Platforms        Linux, OpenWrt, RouterOS
+Best fit         Network tooling, backend services, operator-facing infrastructure
+```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=svenshi&show_icons=true&theme=tokyonight&hide_border=true" alt="Sven's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenshi&layout=compact&theme=tokyonight&hide_border=true" alt="Sven's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svenshi&theme=tokyo-night&hide_border=true" alt="Sven's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svenshi&theme=tokyo-night&hide_border=true" alt="Sven's GitHub contribution graph" />
 </p>
 
 ## 🤝 Connect
