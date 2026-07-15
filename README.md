@@ -120,7 +120,9 @@ Platforms        Linux, OpenWrt, RouterOS
 Best fit         Network tooling, backend services, operator-facing infrastructure
 ```
 
-> I keep this section text-based on purpose: it stays readable even when third-party GitHub stats services are slow, rate-limited, or unavailable.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svenshi&theme=tokyo-night&hide_border=true" alt="Sven's GitHub contribution graph" />
+</p>
 
 ## 🤝 Connect
 
