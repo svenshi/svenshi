@@ -3,36 +3,54 @@
 <p align="center"><strong>Network & Backend Engineer · Rust DNS Infrastructure · OpenWrt / RouterOS Tooling</strong></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=180&section=header&text=Sven%20Shi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Sven Shi profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0ea5e9,100:7c3aed&height=160&section=header&text=Sven%20Shi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Sven Shi profile banner" />
+</p>
+
+<p align="center">
+  <em>Programmable DNS · Practical routing · Infrastructure that operators can trust</em>
 </p>
 
 <p align="center">
   <a href="mailto:isvenshi@gmail.com"><img src="https://img.shields.io/badge/Email-isvenshi%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/svenshi"><img src="https://img.shields.io/badge/GitHub-svenshi-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=svenshi&style=for-the-badge&color=7c3aed" alt="Profile views" />
 </p>
+
+<p align="center">
+  <a href="#-oxidns-ecosystem">OxiDNS Ecosystem</a> ·
+  <a href="#-engineering-focus">Engineering Focus</a> ·
+  <a href="#-profile-snapshot">Profile Snapshot</a> ·
+  <a href="#-connect">Connect</a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
 I build infrastructure tools for people who care about **network control**, **operational clarity**, and **systems that can be debugged under pressure**.
 
-- 🔭 Currently building the **OxiDNS ecosystem**: a Rust DNS engine plus router-side integrations and release tooling.
-- 🧠 Focus areas: **DNS infrastructure**, **policy-based routing**, **backend architecture**, and **performance engineering**.
-- 🛠️ Strength: turning messy network / operations problems into tools that are easier to deploy, reason about, and maintain.
-- 🌏 Working style: pragmatic, production-oriented, and comfortable crossing backend, network, and UI boundaries when the product needs it.
+At the moment, my public work is centered on **OxiDNS**: a programmable DNS engine and its surrounding router-side tooling. I want the profile to make one thing obvious: I am interested in practical infrastructure, not toy demos.
+
+**What I bring:**
+
+- Deep interest in DNS, routing behavior, and network operations.
+- Backend engineering experience for reliable APIs and maintainable services.
+- A product-minded approach to operator experience: configuration, logs, deployment, and recovery matter.
+- Willingness to cross layers when needed: Rust core, Java backend, shell automation, RouterOS / OpenWrt integration, and UI glue.
 
 ## 🧭 Open Source Direction
 
 ```text
-Core idea        Build a programmable DNS control plane for real network environments
+Thesis           DNS can be a practical control plane for network behavior
 Main users       Router / homelab / infrastructure operators who need transparent control
 Current focus    OxiDNS engine, OpenWrt management, RouterOS routing workflows, repeatable builds
-Design taste     Fast, explicit, debuggable, and configuration-driven
+Design taste     Fast, explicit, debuggable, configuration-driven, and operator-friendly
 ```
+
+---
 
 ## 🚀 OxiDNS Ecosystem
 
-This is the work I want visitors to remember: not isolated repos, but a connected toolkit that goes from DNS decision-making to router deployment.
+> Not isolated repos — a connected toolkit that goes from DNS decision-making to router deployment.
 
 <table>
   <tr>
@@ -79,6 +97,8 @@ I intentionally keep the front page focused:
 - **Support:** build templates and integration helpers that make the ecosystem easier to ship.
 - **Hidden from the spotlight:** forks, archived repositories, experiments, and one-off utilities that do not represent my current technical direction.
 
+---
+
 ## 🧰 Tech Stack
 
 <p>
@@ -88,7 +108,6 @@ I intentionally keep the front page focused:
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="RouterOS" />
 </p>
 
 ## 🎯 Engineering Focus
@@ -110,27 +129,35 @@ Good infrastructure software should be:
 - **Operational:** easy to run, upgrade, debug, and recover.
 - **Fast where it matters:** performance should support reliability, not just benchmarks.
 
-## 📊 Profile Snapshot
+---
+
+## 📌 Profile Snapshot
 
 ```text
+Identity         Network / backend engineer building operator-facing infrastructure
 Primary theme    DNS infrastructure and practical network control
 Main project     OxiDNS ecosystem
 Languages        Rust, Java, JavaScript, Shell
 Platforms        Linux, OpenWrt, RouterOS
-Best fit         Network tooling, backend services, operator-facing infrastructure
+Best fit         Network tooling, backend services, router-side integrations
 ```
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=svenshi&theme=tokyo-night&hide_border=true" alt="Sven's GitHub contribution graph" />
 </p>
 
+---
+
 ## 🤝 Connect
 
-If you are working on DNS, router-side networking, backend systems, or practical infrastructure tooling, feel free to reach out.
+Good reasons to reach out:
 
-- 📫 Email: [isvenshi@gmail.com](mailto:isvenshi@gmail.com)
-- 🐙 GitHub: [github.com/svenshi](https://github.com/svenshi)
+- You are building or using DNS / router-side networking tools.
+- You care about practical infrastructure, not just benchmark demos.
+- You want to discuss OxiDNS, OpenWrt / RouterOS integration, or backend reliability.
+
+📫 Email: [isvenshi@gmail.com](mailto:isvenshi@gmail.com) · 🐙 GitHub: [github.com/svenshi](https://github.com/svenshi)
 
 <p align="center">
-  <em>Programmable DNS. Practical routing. Infrastructure that operators can trust.</em>
+  <sub>Designed around clarity, control, and operational trust.</sub>
 </p>
