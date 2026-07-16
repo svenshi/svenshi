@@ -3,7 +3,7 @@
 <p align="center"><strong>Network & Backend Engineer · Rust DNS Infrastructure · OpenWrt / RouterOS Tooling</strong></p>
 
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Sven Shi profile banner" width="900" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0ea5e9,100:7c3aed&height=220&section=header&text=Sven%20Shi&fontSize=44&fontColor=f8fafc&animation=twinkling&fontAlign=50&fontAlignY=50&stroke=0f172a&strokeWidth=1" alt="Sven Shi profile banner" width="900" />
 </p>
 
 <p align="center">
